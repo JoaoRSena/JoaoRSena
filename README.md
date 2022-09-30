@@ -1,17 +1,9 @@
-# Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
-
-| :placard: Vitrine.Dev |     |
+| :adult: João Sena |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :label: Tecnologias | HTML, CSS, JavaScript
+| :rocket: Linkedin   | https://www.linkedin.com/in/jo%C3%A3o-sena-86434988/
+| :octocat: Minha Vitrine |  https://cursos.alura.com.br/vitrinedev/j-sena-13
+| :fire: Objetivo  | Front-End
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
